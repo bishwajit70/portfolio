@@ -21,3 +21,15 @@ span{
 .half-width img{
     width: 80%;
 }
+.button-link{
+    text-decoration: none;
+    padding:10px 20px;
+    background-image: linear-gradient(orange, red);
+    color:#fff;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
